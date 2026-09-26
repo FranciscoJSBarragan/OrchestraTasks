@@ -1,0 +1,23 @@
+{
+  "name": "orchestra-tasks",
+  "version": "0.1.0",
+  "description": "Optional task preparation, native-chat ownership and local progress views for Orchestra.",
+  "author": {
+    "name": "Francisco Javier Serna Barragan"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Orchestra Tasks",
+    "shortDescription": "Prepare and track work across native coding chats.",
+    "longDescription": "Optional companion. Preparation works independently; execution uses the separately installed Orchestra skills.",
+    "developerName": "Orchestra",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use Orchestra Tasks to prepare one task."
+  },
+  "license": "MIT",
+  "keywords": [
+    "orchestra",
+    "tasks"
+  ]
+}

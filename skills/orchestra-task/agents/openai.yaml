@@ -1,0 +1,6 @@
+interface:
+  display_name: "Orchestra Task"
+  short_description: "Prepare or adopt an Orchestra Kanban task"
+  default_prompt: "Use $orchestra-task to prepare this task card, or adopt its human ID from the current native Codex chat."
+policy:
+  allow_implicit_invocation: false
