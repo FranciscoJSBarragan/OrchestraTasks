@@ -1,7 +1,7 @@
 # Orchestra Tasks
 
 Optional local task preparation, native-chat ownership and progress views for
-Orchestra. Install Orchestra alone when you want engineering skills or its full
+[Orchestra](https://github.com/FranciscoJSBarragan/Orchestra). Install Orchestra alone when you want engineering skills or its full
 execution workflow without a task manager.
 
 Tasks owns cards, global snapshots, MCP and the Hub/TUI/macOS clients. Preparation
